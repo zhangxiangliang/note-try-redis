@@ -10,7 +10,6 @@ $redis->connect($ip, $port);
 // 初始化
 $success = 0;
 $error = 0;
-$arr = [];
 $ticketKey = 'ticketNumber:xiaoer';
 $ticketList = 'ticketList:xiaoer';
 
